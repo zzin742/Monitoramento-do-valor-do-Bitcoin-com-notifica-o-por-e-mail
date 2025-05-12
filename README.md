@@ -4,8 +4,8 @@ import time
 from email.message import EmailMessage
 
 # CONFIGURAÇÕES DE EMAIL
-EMAIL_REMETENTE = '0000107043274xsp@al.educacao.sp.gov.br'
-SENHA = 'zezinho230107'
+EMAIL_REMETENTE = '00001907043274xsp@all.educacao.sp.gov.br'
+SENHA = '000007465oi3'
 EMAIL_DESTINATARIO = '0000107043274xsp@al.educacao.sp.gov.br'  # você mesmo receberá
 
 # INTERVALO ENTRE VERIFICAÇÕES (em segundos)
